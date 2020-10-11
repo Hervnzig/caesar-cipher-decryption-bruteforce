@@ -17,13 +17,11 @@ public class Answer_1 {
 
         }
 
-//        int k = 7;
-//        char[] chars = cipher.toCharArray();
-//        for (char c:chars){
-//            c -= k;
-//            System.out.print(c);
-//            decryptedMessage += c;
-//        }
+        // when decrypting the that make sense are this only when using key of 7
+//
+//        - when using key: 7
+//        comprehensible"message
+//
 
 
 }
