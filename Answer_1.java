@@ -1,6 +1,6 @@
 package com.company;
 
-public class Decrypt {
+public class Answer_1 {
     public static void main(String[] args) {
         String cipher = "jvtwyloluzpisl\"tlzzhnl";
 

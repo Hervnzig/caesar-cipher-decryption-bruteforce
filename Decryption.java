@@ -2,10 +2,10 @@ package com.company;
 
 import java.util.Scanner;
 
-public class CaesarCipher {
+public class other_code_from_github {
 
     public static void main(String[] args) {
-        CaesarCipher c = new CaesarCipher();
+        other_code_from_github c = new other_code_from_github();
         Scanner s = new Scanner(System.in);
         System.out.println("input Data to encypt:");
         String str = s.nextLine();
